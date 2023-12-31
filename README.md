@@ -1,5 +1,7 @@
-![Alt Text](giphy.mp4){: width="100" height="100"}
-
+<div align="center">
+  <img src="giphy.gif" alt="GIF">
+</div>
+  
 🫱🏽‍🫲🏽 Prazer, meu nome é Amanda!
 
 📚 Graduanda em Engenharia da Computação - Universidade Estadual de Feira de Santana 
