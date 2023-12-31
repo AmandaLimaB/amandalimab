@@ -4,9 +4,9 @@ https://github.com/DavidsDvm
 -->
 
 <div align="center">
-  <img src="giphy.gif" alt="GIF">
+  <img src="GIF_readme.gif" alt="GIF" width="5000">
 </div>
-  
+
 🫱🏽‍🫲🏽 Prazer, meu nome é Amanda!
 
 📚 Graduanda em Engenharia da Computação - Universidade Estadual de Feira de Santana 
