@@ -1,6 +1,8 @@
 
 🫱🏽‍🫲🏽 Prazer, meu nome é Amanda!
+
 📚 Graduanda em Engenharia da Computação - Universidade Estadual de Feira de Santana 
+
 🗨️ Português/Inglês
 
 <!--
