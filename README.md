@@ -1,4 +1,7 @@
-### Hi there 👋 
+
+🫱🏽‍🫲🏽 Prazer, meu nome é Amanda!
+📚 Graduanda em Engenharia da Computação - Universidade Estadual de Feira de Santana 
+🗨️ Português/Inglês
 
 <!--
 **AmandaLimaB/amandalimab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
