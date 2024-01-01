@@ -7,9 +7,9 @@ https://github.com/DavidsDvm
   <img src="GIF_readme.gif" alt="GIF" width="5000">
 </div>
 
-🤗 Prazer, meu nome é Amanda!  
-📚 Graduanda em Engenharia da Computação - Universidade Estadual de Feira de Santana  
-🗨️ Português/Inglês  
+### 🤗 Prazer, meu nome é Amanda!  
+### 📚 Graduanda em Engenharia da Computação - Universidade Estadual de Feira de Santana  
+### 🗨️ Português/Inglês  
 
 <a href="https://github.com/AmandaLimaB/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AmandaLimaB&hide=prs&show_icons=true&theme=react&title_color=5dc1b9&text_color=ffffff&icon_color=5dc1b9" />
