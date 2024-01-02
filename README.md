@@ -11,22 +11,13 @@ https://github.com/DavidsDvm
 ### 📚 Graduanda em Engenharia da Computação - Universidade Estadual de Feira de Santana  
 ### 🗨️ Português/Inglês  
 
-<!--
-<a href="https://github.com/AmandaLimaB/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AmandaLimaB&hide=prs&show_icons=true&theme=react&title_color=5dc1b9&text_color=ffffff&icon_color=5dc1b9" />
-</a>
-<a href="https://github.com/AmandaLimaB/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmandaLimaB&layout=compact&theme=react&title_color=5dc1b9" />
-</a>
------------------------------------------------------------------------
--->
-<a href="https://github.com/AmandaLimaB/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AmandaLimaB&hide=prs&show_icons=true&theme=react&title_color=5dc1b9&text_color=ffffff&icon_color=5dc1b9" />
-</a>
-<a href="https://github.com/AmandaLimaB/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmandaLimaB&layout=compact&langs_count=8&card_width=320&theme=react&title_color=5dc1b9" />
-</a>
+<br>
 
+<div>
+  <a href="https://github.com/AmandaLimaB">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaLimaB&hide=prs&show_icons=true&theme=react&include_all_commits=true&count_private=true&title_color=5dc1b9&text_color=ffffff&icon_color=5dc1b9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLimaB&layout=compact&langs_count=16&theme=react&title_color=5dc1b9"/>
+</div> 
 
 <!--
 **AmandaLimaB/amandalimab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
