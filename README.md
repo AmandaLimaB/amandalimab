@@ -11,12 +11,22 @@ https://github.com/DavidsDvm
 ### 📚 Graduanda em Engenharia da Computação - Universidade Estadual de Feira de Santana  
 ### 🗨️ Português/Inglês  
 
+<!--
 <a href="https://github.com/AmandaLimaB/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AmandaLimaB&hide=prs&show_icons=true&theme=react&title_color=5dc1b9&text_color=ffffff&icon_color=5dc1b9" />
 </a>
 <a href="https://github.com/AmandaLimaB/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmandaLimaB&layout=compact&theme=react&title_color=5dc1b9" />
 </a>
+-----------------------------------------------------------------------
+-->
+<a href="https://github.com/AmandaLimaB/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AmandaLimaB&hide=prs&show_icons=true&theme=react&title_color=5dc1b9&text_color=ffffff&icon_color=5dc1b9" />
+</a>
+<a href="https://github.com/AmandaLimaB/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmandaLimaB&layout=compact&langs_count=8&card_width=320&theme=react&title_color=5dc1b9" />
+</a>
+
 
 <!--
 **AmandaLimaB/amandalimab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
