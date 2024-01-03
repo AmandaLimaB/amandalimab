@@ -11,8 +11,6 @@ https://github.com/DavidsDvm
 ### 📚 Graduanda em Engenharia da Computação - Universidade Estadual de Feira de Santana  
 ### 🗨️ Português/Inglês  
 
-<br>
-
 <div style="display: inline_block"><br>
   <a href="https://github.com/AmandaLimaB">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AmandaLimaB&hide=prs&show_icons=true&theme=react&include_all_commits=true&count_private=true&title_color=5dc1b9&text_color=ffffff&icon_color=5dc1b9"/>
