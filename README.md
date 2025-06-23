@@ -8,8 +8,9 @@ https://github.com/DavidsDvm
 </div>
 
 ### 🤗 Prazer, meu nome é Amanda!  
-### 📚 Graduanda em Engenharia da Computação - Universidade Estadual de Feira de Santana  
-### 🗨️ Português/Inglês  
+### 🎓 Graduanda em Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS)  
+### 🌍 Idiomas: Português | Inglês
+### 💻 Linguagens: Python | C | Java | Go | R
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/AmandaLimaB">
